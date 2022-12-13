@@ -18,6 +18,6 @@ BlazeYT2504: wss://blazeyt2504.repl.co/server
 This is my server so you can join me and has survival
 
 BoffaDEZNUDZ: wss://boffadeznudz-1.braydenrawls.repl.co/server 
-
+My friends server that is easily populater and also a survival server
 
 I do play on here so if you see me say hi! Please star if this really helps and spread the word!
