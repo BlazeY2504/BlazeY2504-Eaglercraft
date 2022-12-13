@@ -14,7 +14,10 @@ Asspixel is one of the biggest servers in eaglercraft and has a lot of minigames
 Aeon: wss://aeon-network.net/aeon
 Aeon is another huge server with the following minigames: PvP, Survival, and Paintball
 
-BlazeYT2504: wss:blazeyt2504.repl.co/server
+BlazeYT2504: wss://blazeyt2504.repl.co/server
 This is my server so you can join me and has survival
+
+BoffaDEZNUDZ: wss://boffadeznudz-1.braydenrawls.repl.co/server 
+
 
 I do play on here so if you see me say hi! Please star if this really helps and spread the word!
