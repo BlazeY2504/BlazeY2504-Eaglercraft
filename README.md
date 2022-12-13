@@ -1,4 +1,4 @@
-# BlazeY2504.github.io
+# BlazeY2504 Eaglercraft
 The unblocked version of eaglercraft as a file that has been saved by me to send 
 
 To get the file just click the Offline_Download_Version (1).html above and download the file then go into your files and just click it
