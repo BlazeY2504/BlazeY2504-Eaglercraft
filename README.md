@@ -8,16 +8,16 @@ The file will be uploaded as Offline_Download_Version.html
 
 To play on multiplayer just type in the following server addresses to and see which one is to your  liking
 
-Asspixel: wss://web.asspixel.net/CAPixel/
+Asspixel: wss://web.asspixel.net/CAPixel/ - 
 Asspixel is one of the biggest servers in eaglercraft and has a lot of minigames including Bedwars, Skywars, Bridge Duels and more!
 
-Aeon: wss://aeon-network.net/aeon
+Aeon: wss://aeon-network.net/aeon - 
 Aeon is another huge server with the following minigames: PvP, Survival, and Paintball
 
-BlazeYT2504: wss://blazeyt2504.repl.co/server
+BlazeYT2504: wss://blazeyt2504.repl.co/server - 
 This is my server so you can join me and has survival
 
-BoffaDEZNUDZ: wss://boffadeznudz-1.braydenrawls.repl.co/server 
+BoffaDEZNUDZ: wss://boffadeznudz-1.braydenrawls.repl.co/server - 
 My friends server that is easily populater and also a survival server
 
 I do play on here so if you see me say hi! Please star if this really helps and spread the word!
