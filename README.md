@@ -1,4 +1,4 @@
-# BlazeY2504 Eaglercraft
+# BlazeY2504 Eaglercraft - 1.5.2
 The unblocked version of eaglercraft as a file that has been saved by me to send 
 
 To get the file just click the Offline_Download_Version (1).html above and download the file then go into your files and just click it
