@@ -14,7 +14,7 @@ Asspixel is one of the biggest servers in eaglercraft and has a lot of minigames
 BlazeYT2504: wss://blazeyt2504.repl.co/server - 
 This is my server so you can join me and has survival
 
-BlazeYT2504 PVP: wss://pvp.blazeyt2504.repl.co/server - 
-My PVP server
+Uef: wss://uefwhiuhfewiud.repl.co/server
+This is my friend's server and is the most populated so far and has a pvp arena.
 
 I do play on here so if you see me say hi! Please star if this really helps and spread the word!
